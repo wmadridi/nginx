@@ -5,7 +5,7 @@ print("")
 
 print("<html>\n<body>")
 print("<div style=\"width: 100%; font-size: 40px; font-weight: bold; text-align: center;\">")
-print("HELLO DEVS FROM ZERO TO HERO")
+print("HELLO DEVS FROM ZERO TO HERO!! GO AHEAD")
 print("</div>")
 print("</body>\n</html>")
  
